@@ -1,6 +1,9 @@
 # vaccineSlotBookingReactNative
 
 # This is exactly what it sounds like 
+![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
+![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)
+
 
 # A react-native app that let's you book your slot
 
